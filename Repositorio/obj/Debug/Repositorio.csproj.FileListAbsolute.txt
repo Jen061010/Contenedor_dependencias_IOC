@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Repositorio\obj\Debug\Repositorio.pdb

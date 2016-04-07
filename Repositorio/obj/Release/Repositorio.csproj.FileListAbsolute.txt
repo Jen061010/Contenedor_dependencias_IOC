@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Repositorio\bin\Release\Repositorio.dll
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Repositorio\bin\Release\Repositorio.pdb
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Repositorio\obj\Release\Repositorio.dll
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Repositorio\obj\Release\Repositorio.pdb

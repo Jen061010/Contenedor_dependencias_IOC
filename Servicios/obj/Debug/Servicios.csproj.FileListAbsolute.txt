@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Servicios\bin\Debug\Servicios.dll
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Servicios\bin\Debug\Servicios.pdb
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Servicios\bin\Debug\Repositorio.dll
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Servicios\bin\Debug\Repositorio.pdb
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Servicios\obj\Debug\Servicios.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Servicios\obj\Debug\Servicios.dll
+C:\Users\admin\Desktop\curso asp.net\Controlador_dependencias_clases\Servicios\obj\Debug\Servicios.pdb
